@@ -1,17 +1,18 @@
 import './Banner.css'
 
 interface BannerProps {
-    src: string;
-    alt?: string;
+    enderecoImagem: string
+    textoAlternativo?: string
 }
 
-export const Banner = ({src, alt} : BannerProps) => {
+const Banner = ({ enderecoImagem, textoAlternativo } :BannerProps) => {
     // JSX
     return (
         <header className="banner">
-            <img src={src} alt={alt}/>
+            {/* <img src="" alt="O banner principal da página do Organo"/> */}
+            <img src={enderecoImagem} alt={textoAlternativo}/>
         </header>
     )
 }
 
-export default Banner;
+export default Banner
