@@ -1,8 +1,8 @@
-# Organo
+## Organo
 
 O Organo é aplicação desenvolvida no curso React: desenvolvendo com JavaScript.
 
-## ✔️ Tecnologias utilizadas
+# Tecnologias utilizadas
 
 - `React`
 - `React Hooks`
@@ -10,5 +10,5 @@ O Organo é aplicação desenvolvida no curso React: desenvolvendo com JavaScrip
 
 E muito mais!
 
-## Veja mais
+# Veja mais
 Acesse o protótipo clicando [aqui](https://organo-typescript.vercel.app/).
