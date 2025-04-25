@@ -1,6 +1,6 @@
 ## Organo
 
-O Organo é aplicação desenvolvida no curso React: desenvolvendo com JavaScript.
+O Organo é aplicação desenvolvida no curso React: desenvolvendo com TypeScript.
 
 ### Tecnologias utilizadas
 
